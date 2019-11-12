@@ -1,0 +1,6 @@
+Попытка собрать create-react-app с TypeScript.
+
+И далее попытался добавить Ридакс - прошел до 11-95 примерно до 3.30.
+https://www.udemy.com/course/reactjswfs/learn/lecture/14741394
+
+Пока всё работает, но ещё не совсем понимаю, как использовать state, props и TypeScript до кучи!((
